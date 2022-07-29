@@ -1,6 +1,6 @@
 """
 CP1404 - Practical 3
-Name: Yu Bohan
+Name: Yu Bo han
 Student ID：14161276
 Using def() function to rearrange the program
 """
@@ -9,7 +9,7 @@ Using def() function to rearrange the program
 
 def main():  # Set the main function
     score = float(input("Enter score: "))    # Enter your score here
-    determine_score = evaluate_score(score)  # Set a function to evaulate the score
+    determine_score = evaluate_score(score)  # Set a function to evaluate the score
     print(determine_score)                   # Print the result of the evaluate function
 
 def evaluate_score(score):                   # Get the evaluate score here
