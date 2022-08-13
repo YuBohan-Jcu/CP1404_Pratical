@@ -4,7 +4,6 @@ Student Name: Yu Bohan
 Student ID: 14161276
 '''
 
-
 import csv
 is_finished = True   # Kind of using while true
 total = -1  # This is a name for count how many element in songs_list
